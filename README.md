@@ -1,2 +1,3 @@
-# public_jupyter_notebooks
-Jupyter notebooks for public consumption. 
+# Jason's Jupyter Notebooks
+
+Jupyter notebooks for general consumption.
